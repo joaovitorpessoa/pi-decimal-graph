@@ -1,24 +1,27 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { ResponsiveLine } from "@nivo/line";
+import pi from "./Pi";
+
+const data = [
+  {
+    id: "pi",
+    color: "hsl(155, 70%, 50%)",
+    data: pi,
+  },
+];
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <div className="wrapper">
+        <ResponsiveLine
+          data={data}
+          margin={{ top: 50, right: 110, bottom: 50, left: 60 }}
+          axisBottom={null}
+          axisRight={null}
+          enableGridX={false}
+          colors={{ scheme: "category10" }}
+        />
+      </div>
     </div>
   );
 }
