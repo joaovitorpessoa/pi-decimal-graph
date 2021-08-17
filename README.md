@@ -4,6 +4,7 @@
 <p align="center">
   <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias-utilizadas">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-resultado-em-17082021">Resultado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-uso">Uso</a>
 </p>
 
@@ -15,6 +16,10 @@ Esse projeto tem como objetivo plotar em um gráfico as casas decimais de pi em 
 
 - [ReactJS](https://pt-br.reactjs.org/)
 - [Nivo](https://nivo.rocks/)
+
+## 💡 Resultado em 17/08/2021 com 300 casas decimais
+
+![""](/docs/img/results.png)
 
 ## 🏃 Uso
 
