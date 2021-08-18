@@ -1,5 +1,5 @@
 <h1 align="center">
-   Gráfico das casas decimais de Pi
+   Gráfico das casas decimais de π
 </h1>
 <p align="center">
   <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -10,7 +10,7 @@
 
 ## 🔖 Sobre
 
-Esse projeto tem como objetivo plotar em um gráfico as casas decimais de pi em função do número da casa decimal em questão.
+Esse projeto tem como objetivo plotar em um gráfico as casas decimais de π em função do número da casa decimal em questão.
 
 ## 🚀 Tecnologias utilizadas
 
