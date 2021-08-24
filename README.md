@@ -14,16 +14,17 @@ Esse projeto tem como objetivo plotar em um gráfico as casas decimais de π em 
 
 ## 🚀 Tecnologias utilizadas
 
-- [ReactJS](https://pt-br.reactjs.org/)
-- [Nivo](https://nivo.rocks/)
+- <img align="left" width="24px" src="/docs/img/react.png"></img>[ReactJS](https://pt-br.reactjs.org/)
+- <img align="left" width="24px" src="/docs/img/typescript.png"></img>[TypeScript](https://www.typescriptlang.org/)
+- <img align="left" width="24px" src="/docs/img/nivo.png"></img>[Nivo](https://nivo.rocks/)
 
-## 💡 Resultado em 17/08/2021 com 300 casas decimais
+## 💡 Resultado com 300 casas decimais
 
 ![""](/docs/img/results.png)
 
 ## 🏃 Uso
 
-No arquivo **Pi.ts** modifique o valor de quantidade de casas decimais que deseja visualizar.
+No arquivo `Pi.ts` modifique o valor de quantidade de casas decimais que deseja visualizar.
 
 ```bash
     # Clonar repositório
